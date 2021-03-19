@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAdd" type="id" />
+    <item name="btnMinus" type="id" />
+    <item name="btnMultiply" type="id" />
+    <item name="btnDivide" type="id" />
+    <item name="btnModulo" type="id" />
+    <item name="txtOperand1" type="id" />
+    <item name="txtOperand2" type="id" />
+    <item name="txtanswer" type="id" />
+</resources>
